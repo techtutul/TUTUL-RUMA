@@ -15,4 +15,4 @@ cd TUTUL-RUMA
 
 ls
 
-2008-2009.py
+python 2008-2009.py
